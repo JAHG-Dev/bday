@@ -1,3 +1,3 @@
-# Version: v0.0.6
-Time since birth: 6 days, 144 hours, 8640 minutes, 518400 seconds
+# Version: v0.0.7
+Time since birth: 7 days, 168 hours, 10080 minutes, 604800 seconds
 Season: Autumn 🍁
