@@ -1,3 +1,3 @@
-# Version: v3.7.4
-Time since birth: 1313 days, 31512 hours, 1890720 minutes, 113443200 seconds
+# Version: v3.7.5
+Time since birth: 1314 days, 31536 hours, 1892160 minutes, 113529600 seconds
 Season: Spring 🌸
