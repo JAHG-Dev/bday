@@ -1,3 +1,3 @@
-# Version: v4.4.13
-Time since birth: 1596 days, 38305 hours, 2298300 minutes, 137898000 seconds
+# Version: v4.4.14
+Time since birth: 1597 days, 38329 hours, 2299740 minutes, 137984400 seconds
 Season: Winter ❄️
