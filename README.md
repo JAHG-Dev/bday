@@ -1,3 +1,3 @@
-# Version: v0.0.13
-Time since birth: 13 days, 312 hours, 18720 minutes, 1123200 seconds
+# Version: v0.0.14
+Time since birth: 14 days, 336 hours, 20160 minutes, 1209600 seconds
 Season: Autumn 🍁
