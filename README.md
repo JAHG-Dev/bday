@@ -1,4 +1,3 @@
-# Version: v0.0.0
-Time since birth: 0 days, 0 hours, 0 minutes, 0 seconds
+# Version: v0.0.1
+Time since birth: 1 days, 24 hours, 1440 minutes, 86400 seconds
 Season: Autumn 🍁
-# Happy birthday! 🎂
