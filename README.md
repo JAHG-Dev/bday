@@ -1,3 +1,3 @@
-# Version: v0.10.7
-Time since birth: 312 days, 7488 hours, 449280 minutes, 26956800 seconds
+# Version: v0.10.8
+Time since birth: 313 days, 7512 hours, 450720 minutes, 27043200 seconds
 Season: Summer ☀️
