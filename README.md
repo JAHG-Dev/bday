@@ -1,3 +1,3 @@
-# Version: v8.0.16
-Time since birth: 2938 days, 70512 hours, 4230720 minutes, 253843200 seconds
+# Version: v8.0.17
+Time since birth: 2939 days, 70536 hours, 4232160 minutes, 253929600 seconds
 Season: Autumn 🍁
