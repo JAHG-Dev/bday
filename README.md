@@ -1,3 +1,3 @@
-# Version: v8.5.1
-Time since birth: 3076 days, 73825 hours, 4429500 minutes, 265770000 seconds
+# Version: v8.5.2
+Time since birth: 3077 days, 73849 hours, 4430940 minutes, 265856400 seconds
 Season: Winter ❄️
