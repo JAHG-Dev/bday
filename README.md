@@ -1,3 +1,3 @@
-# Version: v12.6.1
-Time since birth: 4567 days, 109609 hours, 6576540 minutes, 394592400 seconds
+# Version: v12.6.2
+Time since birth: 4568 days, 109632 hours, 6577920 minutes, 394675200 seconds
 Season: Spring 🌸
