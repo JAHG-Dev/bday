@@ -1,3 +1,3 @@
-# Version: v19.11.16
-Time since birth: 7291 days, 174984 hours, 10499040 minutes, 629942400 seconds
-Season: Summer ☀️
+# Version: v19.11.17
+Time since birth: 7292 days, 175008 hours, 10500480 minutes, 630028800 seconds
+Season: Autumn 🍁
