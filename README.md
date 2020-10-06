@@ -1,3 +1,3 @@
-# Version: v20.0.1
-Time since birth: 7306 days, 175344 hours, 10520640 minutes, 631238400 seconds
+# Version: v20.0.2
+Time since birth: 7307 days, 175368 hours, 10522080 minutes, 631324800 seconds
 Season: Autumn 🍁
