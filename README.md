@@ -1,3 +1,3 @@
-# Version: v20.7.2
-Time since birth: 7521 days, 180504 hours, 10830240 minutes, 649814400 seconds
+# Version: v20.7.3
+Time since birth: 7522 days, 180528 hours, 10831680 minutes, 649900800 seconds
 Season: Spring 🌸
