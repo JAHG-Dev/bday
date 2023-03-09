@@ -1,3 +1,3 @@
-# Version: v22.5.2
-Time since birth: 8190 days, 196561 hours, 11793660 minutes, 707619600 seconds
+# Version: v22.5.3
+Time since birth: 8191 days, 196585 hours, 11795100 minutes, 707706000 seconds
 Season: Winter ❄️
