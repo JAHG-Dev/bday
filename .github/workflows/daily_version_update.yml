@@ -3,7 +3,7 @@ name: Daily Version Update
 on:
   schedule:
     - cron: "* 6 * * *" # Se ejecuta a las 6:00 AM
-    workflow_dispatch: # Se puede ejecutar manualmente
+  workflow_dispatch: # Habilita la ejecución manual del workflow
 
 jobs:
   update-version:
