@@ -1,0 +1,26 @@
+name: Daily Version Update
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+
+jobs:
+  update-version:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "JAHG-Dev"
+          git config --global user.email "joseangelh2000@gmail.com"
+
+      - name: Run daily version update script
+        run: |
+          bash daily_update.sh
+
+      - name: Commit and push changes
+        run: |
+          git push origin main
