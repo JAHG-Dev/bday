@@ -2,7 +2,7 @@ name: Daily Version Update
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "30 18 * * *" # Se ejecuta a las 4:45 AM UTC (ajusta la hora según tu zona horaria)
 
 jobs:
   update-version:
@@ -21,6 +21,7 @@ jobs:
         run: |
           bash daily_update.sh
 
-      - name: Commit and push changes
+      - name: Push changes
         run: |
+          git remote set-url origin https://JAHG-Dev:${{ secrets.GH_TOKEN }}@github.com/JAHG-Dev/bday.git
           git push origin main
