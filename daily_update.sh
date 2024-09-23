@@ -63,10 +63,14 @@ days=$(($diff_in_seconds / 86400))
 # Obtener estación del año
 season=$(get_season "$current_date")
 
-# Actualizar README.md con la versión y la información adicional
+# Actualizar README.md con la versión y la información adicional en formato de lista
 echo "# Version: $version" > README.md
-echo "Time since birth: $days days, $hours hours, $minutes minutes, $diff_in_seconds seconds" >> README.md
-echo "Season: $season" >> README.md
+echo "- **Time since birth**:" >> README.md
+echo "  - $days days" >> README.md
+echo "  - $hours hours" >> README.md
+echo "  - $minutes minutes" >> README.md
+echo "  - $diff_in_seconds seconds" >> README.md
+echo "- **Season**: $season" >> README.md
 
 # Verificar si es cumpleaños
 if [[ "$(date '+%m-%d')" == "$birthMonth-$birthDay" ]]; then
