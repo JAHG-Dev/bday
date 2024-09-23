@@ -2,7 +2,7 @@ name: Daily Version Update
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 18 * * *"
 
 jobs:
   update-version:
