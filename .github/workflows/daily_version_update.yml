@@ -2,7 +2,7 @@ name: Daily Version Update
 
 on:
   schedule:
-    - cron: "30 18 * * *" # Se ejecuta a las 4:45 AM UTC (ajusta la hora según tu zona horaria)
+    - cron: "0 6 * * *" # Se ejecuta a las 6:00 AM UTC
 
 jobs:
   update-version:
