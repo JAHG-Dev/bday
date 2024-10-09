@@ -1,7 +1,7 @@
-# Version: v24.0.4
+# Version: v24.0.5
 - **Time since birth**:
-  - 8770 days
-  - 210480 hours
-  - 12628800 minutes
-  - 757728000 seconds
+  - 8771 days
+  - 210504 hours
+  - 12630240 minutes
+  - 757814400 seconds
 - **Season**: Autumn 🍁
